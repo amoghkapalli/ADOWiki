@@ -1,4 +1,16 @@
 # ADOWiki
+
+This Wiki Page provides a introduction into some of the components used in Azure DevOps that 
+
+## Azure DevOps Backlogs
+
+Backlogs are a fundamental feature of Azure DevOps which we will be using in this class consistently for a list of tasks/user stories which are to be completed for the studio badging and for other projects as part of the badges. Backlogs help assist teams in managing and organizing their work effectively. A backlog serves as a central repository for capturing, prioritizing, and tracking all the tasks, user stories, and bugs related to a software development project. Within the Backlogs, each item can be further defined by adding details such as a title, description, acceptance criteria, and effort estimation and this is one of the primary ways we will be using ADO Backlogs in CSS390.
+
+### Setting up the Software Engineering Studio Backlog:
+
+Information about how to set up your Software Engineering Studio Backlog can be found in the following (video)[https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20cd3ec8-d297-45c3-a0e7-ae4400578fd9] at a timestamp of 1:35:00
+
+
 ## Azure DevOps Team Dashboard Setup and Usage
 
 Azure DevOps provides powerful dashboards to track various metrics related to team productivity, task status, and project progress. The "Team 02 Metrics" dashboard example includes several different metrics and visualizations. Here's a guide on how to set up a similar dashboard and understand the various filters and metrics.
