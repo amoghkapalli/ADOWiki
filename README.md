@@ -8,7 +8,7 @@ Backlogs are a fundamental feature of Azure DevOps which we will be using in thi
 
 ### Setting up the Software Engineering Studio Backlog:
 
-Information about how to set up your Software Engineering Studio Backlog can be found in the following (video)[https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20cd3ec8-d297-45c3-a0e7-ae4400578fd9] at a timestamp of 1:35:00
+Information about how to set up your Software Engineering Studio Backlog can be found in the following [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20cd3ec8-d297-45c3-a0e7-ae4400578fd9) at a timestamp of 1:35:00
 
 
 ## Azure DevOps Team Dashboard Setup and Usage
