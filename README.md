@@ -1,6 +1,6 @@
 # ADOWiki
 
-This Wiki Page provides a introduction into some of the components used in Azure DevOps that 
+This Wiki Page provides a introduction into some of the components used in Azure DevOps that you will be utilizing to evaluate Team metrics, facilitate agile project management and collaboration, add to a existing codebase and view automated builds, tests, and deployment of applications.
 
 ## Azure DevOps Backlogs
 
